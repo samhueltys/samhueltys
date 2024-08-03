@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @samhuelt
+- 👀 I’m interested in Python,C++, Javascript
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Discord Projects
+- 📫 How to reach me on Discord add whoknowslol._
+- 😄 Pronouns: he/him
